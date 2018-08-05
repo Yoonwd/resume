@@ -28,7 +28,7 @@
  
 ### 2. 마크업
 아래는 제가 작업한 포트폴리오 사이트입니다.
-> <https://github.com/yoonwd>
+> <https://yoonwd.github.io>
 - Brea180
 - RIME
 - Jurasic World 
