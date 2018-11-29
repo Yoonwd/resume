@@ -4,6 +4,7 @@
   
 # 경력사항
 - [2015.1 ~ 2017.2] 큐브레인
+- [2018.8 ~ ] (주)피노
 
 
 # 학력
@@ -18,6 +19,11 @@
 # 사용가능 기술 과 툴
 - [코딩]: HTML/CSS, Javascript(Jquery), Bootstrap
 - [협업]: Slack, Asana
+
+
+# 공부중인 관심 영역
+- Javascript ES6
+-React.js
 
 
 # 주요 작업 정리
