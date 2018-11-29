@@ -23,7 +23,7 @@
 
 # 공부중인 관심 영역
 - Javascript ES6
--React.js
+- React.js
 
 
 # 주요 작업 정리
