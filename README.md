@@ -4,8 +4,8 @@
   
 # 경력사항
 - [2015.1 ~ 2017.2] 큐브레인
-- [2018.8 ~ ] (주)피노 : 퍼블리싱, UI 개발 
-
+- [2018.8 ~ 12] (주)피노 : 퍼블리싱, UI 개발 
+- [2018.3 ~ ] (주)산타 : 퍼블리싱, UI 개발 
 
 # 학력
 - [2014.8] 한국외국어대학교 프랑스어교육과 / 경영학과 이중전공
@@ -17,12 +17,13 @@
 
 
 # 사용가능 기술 과 툴
-- [코딩]: HTML/CSS, Javascript(Jquery), Bootstrap
+- [코딩]: HTML/CSS, Javascript(Jquery), Bootstrap, Vue, Vuetify
 - [협업]: Slack, Asana
 
 
 # 공부중인 관심 영역
 - Javascript ES6
+- Vue.js
 - React.js
 
 
